@@ -49,3 +49,9 @@
 
 ![Alt text](docs/9-2.jpg?raw=true "Title")
 
+11. Поэтапная фиксация файла REPORT.md:
+```
+git add -p
+e
+git commit -m "*commit-message*"
+```
