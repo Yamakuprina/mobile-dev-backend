@@ -17,3 +17,13 @@
 
 ![Alt text](docs/4-1.jpg?raw=true "Title")
 ![Alt text](docs/4-2.jpg?raw=true "Title")
+
+5. В проекте существует регресс, на который имеется тест, запускающийся по команде npm run test. Найдите коммит, в котором проявился регресс.
+
+![Alt text](docs/5-1.jpg?raw=true "Title")
+![Alt text](docs/5-2.jpg?raw=true "Title")
+![Alt text](docs/5-3.jpg?raw=true "Title")
+![Alt text](docs/5-4.jpg?raw=true "Title")
+![Alt text](docs/5-5.jpg?raw=true "Title")
+![Alt text](docs/5-6.jpg?raw=true "Title")
+
