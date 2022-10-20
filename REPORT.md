@@ -39,3 +39,8 @@
 
 ![Alt text](docs/8-1.jpg?raw=true "Title")
 ![Alt text](docs/8-2.jpg?raw=true "Title")
+
+9. Проверьте целостность репозитория и убедитесь, что с ним всё в порядке. При наличии ошибок исправьте их.
+
+![Alt text](docs/9-1.jpg?raw=true "Title")
+![Alt text](docs/9-2.jpg?raw=true "Title")
