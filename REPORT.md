@@ -31,3 +31,6 @@
 
 ![Alt text](docs/6.jpg?raw=true "Title")
 
+7. Сделайте так, чтобы автором коммитов в ветке feature были Вы. Для этого укажите в изменяемых коммитах почту, привязанную к GitHub, и своё ФИО.
+
+![Alt text](docs/7.jpg?raw=true "Title")
