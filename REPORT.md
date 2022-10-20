@@ -8,3 +8,7 @@
 
 ![Alt text](docs/2-1.jpg?raw=true "Title")
 ![Alt text](docs/2-2.jpg?raw=true "Title")
+
+3. В репозитории есть несколько альтернативных историй проекта, недоступных из текущей версии графа. Найдите последний коммит любой из версий и создайте на нём ветку old-master. 
+
+![Alt text](docs/3.jpg?raw=true "Title")
