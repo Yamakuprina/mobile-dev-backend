@@ -27,3 +27,7 @@
 ![Alt text](docs/5-5.jpg?raw=true "Title")
 ![Alt text](docs/5-6.jpg?raw=true "Title")
 
+6. В репозитории существует файл .env, содержащий конфиденциальную информацию. Удалите его из всех коммитов, где он присутствует, и добавьте в .gitignore.
+
+![Alt text](docs/6.jpg?raw=true "Title")
+
