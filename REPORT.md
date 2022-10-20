@@ -44,3 +44,8 @@
 
 ![Alt text](docs/9-1.jpg?raw=true "Title")
 ![Alt text](docs/9-2.jpg?raw=true "Title")
+
+10. Проверьте размер репозитория (папки .git) и добейтесь уменьшения его размера.
+
+![Alt text](docs/9-2.jpg?raw=true "Title")
+
